@@ -128,7 +128,7 @@
 
 - (UIColor *)selectedBarColor {
     if(!_selectedBarColor) {
-        self.selectedBarColor = [UIColor colorWithRed:23./255. green:220./255. blue:108./255. alpha:1];
+        self.selectedBarColor = [UIColor colorWithRed:232.0/255.0 green:0.0/255.0 blue:24.0/255.0 alpha:1.0];
     }
     
     return _selectedBarColor;
