@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
   s.screenshots  = "http://cooperrs.github.io/RMStepsController/Images/Screen1.png", "http://cooperrs.github.io/RMStepsController/Images/Screen2.png"
   s.license      = { :type => 'MIT', :file => 'LICENSE' }
   s.author       = { "CooperRS" => "rm@cooperrs.de" }
-  s.source       = { :git => "https://github.com/CooperRS/RMStepsController.git", :tag => "1.0.1" }
+  s.source       = { :git => "https://github.com/dousgroup/RMStepsController.git", :tag => "1.0.1" }
   s.source_files = 'RMStepsController/*'
   s.platform     = :ios, '7.0'
   s.requires_arc = true
